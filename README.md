@@ -1,2 +1,2 @@
-# Industry_Academia_assignment
+# Autosimentics_assignment
 cs231n
